@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.manip_full.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\eleve\\Desktop\\projets unity\\Puppeting\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "manip_full [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Gravité:
+ - restaurer la valeur de (0, -9.81, 0)
+
+Colliders:
+ - redimensionner mur de gauche : Center(0, -0.1, 0), Size(10, 0.2, 10)
+ - désactiver plafond
+ - activer sol
+ - activer bones, palm et forearm des mains du Leap
+
+ Fond des seaux:
+ - créer des cylindres
+     - Position(0, 0.01, 0)
+	 - Rotation(0, 0, 0)
+	 - Scale(0.2, 0.001, 0.2)
+	 - retirer le MeshRenderer
+	 - ajouter un MeshCollider
+	 - ajouter le script Destructor
+ 
+ Sticky fingers:
+ - ajouter le script aux composants des RigidRoundHand
+ - ajouter OnTriggerEnter au script Destructor
+ - changer le collider du fond des seaux pour un CapsuleCollider
+ - mettre le collider du fond des seaux à isTrigger = true

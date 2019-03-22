@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fce17ae6-2b0b-4333-b719-4b40b4a7ed7c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayWithPuppet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1904">
+              <caret line="115" selection-start-line="115" selection-end-line="115" />
+              <folding>
+                <marker date="1551956542000" expanded="false" signature="6:96" ph="..." />
+                <marker date="1551956542000" expanded="true" signature="142:7219" ph="{...}" />
+                <marker date="1551956542000" expanded="true" signature="957:2912" ph="{...}" />
+                <marker date="1551956542000" expanded="true" signature="2133:2191" ph="/* saving previous positions/rotations of ... */" />
+                <marker date="1551956542000" expanded="true" signature="2488:2607" ph="/* PUPPET ... */" />
+                <marker date="1551956542000" expanded="true" signature="2972:7217" ph="{...}" />
+                <marker date="1551956542000" expanded="true" signature="2983:3664" ph="/* puppetRightArm.transform.position += (rightRigidHand.transform.position - previousRightPalmPosition); ... */" />
+                <marker date="1551956542000" expanded="true" signature="3732:4642" ph="/* Vector3 newDir = Vector3.RotateTowards(puppetLeftArm.transform.up, targetRightDir, step, 0.0f); ... */" />
+                <marker date="1551956542000" expanded="true" signature="4680:6840" ph="{...}" />
+                <marker date="1551956542000" expanded="true" signature="4704:4814" ph="/* MANIPULATING ARMS WITH PALM ... */" />
+                <marker date="1551956542000" expanded="true" signature="5489:5624" ph="/* puppetLeftArm.transform.rotation = Quaternion.FromToRotation(Vector3.right, v); ... */" />
+                <marker date="1551956542000" expanded="true" signature="5993:6148" ph="/* puppetRightArm.transform.rotation = qR * puppetRightArm.transform.rotation; ... */" />
+                <marker date="1551956542000" expanded="true" signature="6760:6830" ph="/* MOVING PUPPET UPWARD ... */" />
+                <marker date="1551956542000" expanded="true" signature="6845:7209" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RopeScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
+              <folding>
+                <marker date="1551956642000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1551956642000" expanded="true" signature="239:6749" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="242:1485" ph="/* ======================================== ... */" />
+                <marker date="1551956642000" expanded="true" signature="3203:3224" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3241:3476" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3384:3411" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3449:3473" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3495:3892" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3559:3852" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3592:3824" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3609:3661" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3691:3751" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3916:5472" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="3974:4106" ph="/* Find the amount of segments based on the distance and resolution ... */" />
+                <marker date="1551956642000" expanded="true" signature="4552:4768" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="5503:6491" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="6345:6411" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="6416:6486" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="6513:6747" ph="{...}" />
+                <marker date="1551956642000" expanded="true" signature="6632:6665" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rigidbody</find>
+      <find>.rigidbody</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RopeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayWithPuppet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StickyFinger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayWithPuppet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rope.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="171" />
+    <option name="y" value="100" />
+    <option name="width" value="1400" />
+    <option name="height" value="906" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fce17ae6-2b0b-4333-b719-4b40b4a7ed7c" name="Default Changelist" comment="" />
+      <created>1551955618872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551955618872</updated>
+      <workItem from="1551955625470" duration="1520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1520000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StickyFinger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528450354000" expanded="true" signature="62:385" ph="{...}" />
+            <marker date="1528450354000" expanded="true" signature="119:383" ph="{...}" />
+            <marker date="1528450354000" expanded="true" signature="177:380" ph="{...}" />
+            <marker date="1528450354000" expanded="true" signature="335:376" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayWithPuppet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <marker date="1551956542000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1551956542000" expanded="true" signature="142:7219" ph="{...}" />
+            <marker date="1551956542000" expanded="true" signature="957:2912" ph="{...}" />
+            <marker date="1551956542000" expanded="true" signature="2133:2191" ph="/* saving previous positions/rotations of ... */" />
+            <marker date="1551956542000" expanded="true" signature="2488:2607" ph="/* PUPPET ... */" />
+            <marker date="1551956542000" expanded="true" signature="2972:7217" ph="{...}" />
+            <marker date="1551956542000" expanded="true" signature="2983:3664" ph="/* puppetRightArm.transform.position += (rightRigidHand.transform.position - previousRightPalmPosition); ... */" />
+            <marker date="1551956542000" expanded="true" signature="3732:4642" ph="/* Vector3 newDir = Vector3.RotateTowards(puppetLeftArm.transform.up, targetRightDir, step, 0.0f); ... */" />
+            <marker date="1551956542000" expanded="true" signature="4680:6840" ph="{...}" />
+            <marker date="1551956542000" expanded="true" signature="4704:4814" ph="/* MANIPULATING ARMS WITH PALM ... */" />
+            <marker date="1551956542000" expanded="true" signature="5489:5624" ph="/* puppetLeftArm.transform.rotation = Quaternion.FromToRotation(Vector3.right, v); ... */" />
+            <marker date="1551956542000" expanded="true" signature="5993:6148" ph="/* puppetRightArm.transform.rotation = qR * puppetRightArm.transform.rotation; ... */" />
+            <marker date="1551956542000" expanded="true" signature="6760:6830" ph="/* MOVING PUPPET UPWARD ... */" />
+            <marker date="1551956542000" expanded="true" signature="6845:7209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rope.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RopeScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <marker date="1551956642000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1551956642000" expanded="true" signature="239:6749" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="242:1485" ph="/* ======================================== ... */" />
+            <marker date="1551956642000" expanded="true" signature="3203:3224" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3241:3476" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3384:3411" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3449:3473" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3495:3892" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3559:3852" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3592:3824" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3609:3661" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3691:3751" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3916:5472" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="3974:4106" ph="/* Find the amount of segments based on the distance and resolution ... */" />
+            <marker date="1551956642000" expanded="true" signature="4552:4768" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="5503:6491" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="6345:6411" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="6416:6486" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="6513:6747" ph="{...}" />
+            <marker date="1551956642000" expanded="true" signature="6632:6665" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
